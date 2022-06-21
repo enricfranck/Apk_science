@@ -14,4 +14,7 @@
     <!-- information dialog-->
     <string name="loading">Chargement...</string>
 
+    <!-- information camera-->
+    <string name="logout">Déconnecter</string>
+
 </resources>
