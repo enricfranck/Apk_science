@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Sapp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- information camera-->
+    <string name="name">RALITSIMANOLAKAVANA Henri Franck</string>
+    <string name="ce">4465</string>
+    <string name="level">M1</string>
+    <string name="mention">Mathématiques et Applications</string>
+    <string name="parcours">MISS</string>
+    <string name="text_scan">Scanner la carte</string>
+
+    <!-- information dialog-->
+    <string name="loading">Chargement...</string>
+
 </resources>
